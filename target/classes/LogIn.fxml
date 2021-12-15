@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Hyperlink?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="800.0" maxWidth="800.0" minHeight="800.0" minWidth="800.0" prefHeight="800.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="rs.controller.LoginController">
+   <children>
+      <TextField fx:id="username" layoutX="306.0" layoutY="317.0" />
+      <PasswordField fx:id="password" layoutX="306.0" layoutY="379.0" />
+      <Button fx:id="SignIn" layoutX="306.0" layoutY="425.0" mnemonicParsing="false" onAction="#signIn" prefHeight="31.0" prefWidth="80.0" text="Sign In" />
+      <Text layoutX="306.0" layoutY="312.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Username" wrappingWidth="187.00000047683716" />
+      <Text layoutX="306.0" layoutY="374.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Password" wrappingWidth="187.00000047683716" />
+      <Hyperlink layoutX="404.0" layoutY="476.0" onAction="#loadNewUserRegistrationForm" text="Sign Up" />
+      <Text layoutX="331.0" layoutY="496.0" strokeType="OUTSIDE" strokeWidth="0.0" text="New user?" />
+   </children>
+</AnchorPane>

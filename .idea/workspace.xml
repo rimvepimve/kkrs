@@ -1,0 +1,1515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="RegistrationSystem" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+    <ignored path="JavaFxApplication.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaFxApplication" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/rs/dao/UserDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10360">
+              <caret line="528" column="19" selection-start-line="528" selection-start-column="19" selection-end-line="528" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/rs/controller/MainController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4760">
+              <caret line="264" column="42" selection-start-line="264" selection-start-column="42" selection-end-line="264" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#addCommentsToTree#0;class#MainController#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/rs/dao/AppointmentDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2140">
+              <caret line="107" column="35" selection-start-line="107" selection-start-column="35" selection-end-line="107" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/rs/util/DBUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="560">
+              <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/rs/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/mainEmployee.fxml">
+          <provider editor-type-id="JavaFX-Scene-Builder" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="640">
+              <caret line="32" column="34" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/LogIn.fxml">
+          <provider editor-type-id="JavaFX-Scene-Builder" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="spring-beans.schema" />
+        <option value="Jsp File" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+        <option value="Arquillian JUnit Test Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>emplo</find>
+      <find>emp</find>
+      <find>Byf</find>
+      <find>addNewCommentToDB</find>
+      <find>css</find>
+      <find>deleteC</find>
+      <find>logi</find>
+      <find>delete</find>
+      <find>getcommentby</find>
+      <find>from comment</find>
+      <find>date</find>
+      <find>error</find>
+      <find>DAO</find>
+      <find>AlertType</find>
+      <find>salon_name</find>
+      <find>repl</find>
+      <find>employeecomm</find>
+      <find>privat</find>
+      <find>infor</find>
+      <find>login</find>
+      <find>hairdressersList</find>
+      <find>getuserb</find>
+      <find>getUserByFullName</find>
+      <find>getEmployeeComments</find>
+      <find>comment</find>
+      <find>.fxml</find>
+      <find>asse</find>
+      <find>Main</find>
+      <find>classpath</find>
+      <find>org.apache.maven.p</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Employee</replace>
+      <replace>customer</replace>
+    </replaceStrings>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/rs/controller/MainController.java" />
+        <option value="$PROJECT_DIR$/src/rs/view/employeeProfile.fxml" />
+        <option value="$PROJECT_DIR$/src/rs/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/src/rs/dao/IUserDAO.java" />
+        <option value="$PROJECT_DIR$/src/rs/WebController/TestasServlet.java" />
+        <option value="$PROJECT_DIR$/src/rs/WebController/TestServlet.java" />
+        <option value="$PROJECT_DIR$/src/rs/WebController/TestAnnotatedServlet.java" />
+        <option value="$PROJECT_DIR$/src/rs/WebController/XMLServlet.java" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/src/rs/servlet/TestAnnotatedServlet.java" />
+        <option value="$PROJECT_DIR$/src/rs/servlet/XMLServlet.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/jsp/main.jsp" />
+        <option value="$PROJECT_DIR$/src/rs/WebController/TestWebCntroller.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/view/main.jsp" />
+        <option value="$PROJECT_DIR$/src/rs/dao/UserDAO.java" />
+        <option value="$PROJECT_DIR$/src/rs/WebController/UserWebController.java" />
+        <option value="$PROJECT_DIR$/src/resources/css/login.css" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/GSONSerializable/AllEmployeesGSONSerializer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GSONSerializable/CustomerGSONSerializer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GSONSerializable/AllCustomersGSONSerilizer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GSONSerializable/AllUsersGSONSerilizer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GSONSerializable/CommentGSONSerializer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GSONSerializable/UserGSONSerializer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rs/model/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GSONSerializable/AllUsersGSONSerializer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GSONSerializable/AllCommentsGSONSerializer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GSONSerializable/EmployeeGSONSerializer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rs/view/appointments.fxml" />
+        <option value="$PROJECT_DIR$/src/main/java/rs/view/mainEmployee.fxml" />
+        <option value="$PROJECT_DIR$/src/main/java/rs/view/customerProfile.fxml" />
+        <option value="$PROJECT_DIR$/src/main/java/rs/controller/AppointmentsController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rs/dao/IUserDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rs/WebController/UserWebController.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml" />
+        <option value="$PROJECT_DIR$/tests/rs/controller/MainControllerTest.java" />
+        <option value="$PROJECT_DIR$/tests/rs/dao/UserDAOTest.java" />
+        <option value="$PROJECT_DIR$/tests/rs/model/CustomerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rs/controller/CommentController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rs/controller/CustomerProfileController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rs/controller/MainEmployeeController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rs/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rs/dao/UserDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rs/controller/MainController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rs/dao/AppointmentDAO.java" />
+        <option value="$PROJECT_DIR$/tests/rs/util/DBUtilTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+        <option value="$PROJECT_DIR$/src/main/java/rs/util/DBUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/rs/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="KKRS" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="KKRS" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-10" />
+    <option name="width" value="1988" />
+    <option name="height" value="1400" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RegistrationSystemWebService2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RegistrationSystemWebService2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RegistrationSystemWebService2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RegistrationSystemWebService2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RegistrationSystemWebService2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RegistrationSystemWebService2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RegistrationSystemWebService2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RegistrationSystemWebService2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RegistrationSystemWebService2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RegistrationSystemWebService2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RegistrationSystemWebService2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RegistrationSystemWebService2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rs" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RegistrationSystemWebService2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RegistrationSystemWebService2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rs" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RegistrationSystemWebService2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RegistrationSystemWebService2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rs" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RegistrationSystemWebService2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RegistrationSystemWebService2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1638121848013" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="C:/Program Files/Java/javafx-sdk-17.0.1/bin/vcruntime140_1.dll" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.39093485" />
+    <property name="recentsLimit" value="5" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="rs.dao" />
+      <recent name="rs.controller" />
+      <recent name="rs.model" />
+      <recent name="rs.util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\dev\RegistrationSystemWebService\src\resources" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\dev\RegistrationSystemWebService2\src\main\resources" />
+      <recent name="D:\dev\RegistrationSystemWebService2\src\main" />
+      <recent name="D:\dev\RegistrationSystemWebService\src\resources" />
+      <recent name="D:\dev\RegistrationSystemWebService\src\main" />
+      <recent name="D:\dev\RegistrationSystemWebService\src\main\java\rs" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="rs.Main" />
+      <module name="RegistrationSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RegistrationSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rs.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rs.model" />
+      <option name="MAIN_CLASS_NAME" value="rs.model.CustomerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DBUtilTest.getConnection" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RegistrationSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rs.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rs.util" />
+      <option name="MAIN_CLASS_NAME" value="rs.util.DBUtilTest" />
+      <option name="METHOD_NAME" value="getConnection" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDAOTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RegistrationSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rs.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rs.dao" />
+      <option name="MAIN_CLASS_NAME" value="rs.dao.UserDAOTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDAOTest.getEmployeeComments" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RegistrationSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rs.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rs.dao" />
+      <option name="MAIN_CLASS_NAME" value="rs.dao.UserDAOTest" />
+      <option name="METHOD_NAME" value="getEmployeeComments" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDAOTest.getUserByFullName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RegistrationSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rs.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rs.dao" />
+      <option name="MAIN_CLASS_NAME" value="rs.dao.UserDAOTest" />
+      <option name="METHOD_NAME" value="getUserByFullName" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 7.0.106" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.106" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="RegistrationSystem:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_RegistrationSystemWebService" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51136" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="RegistrationSystem:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.DBUtilTest.getConnection" />
+      <item itemvalue="JUnit.UserDAOTest.getUserByFullName" />
+      <item itemvalue="JUnit.UserDAOTest.getEmployeeComments" />
+      <item itemvalue="JUnit.UserDAOTest" />
+      <item itemvalue="JUnit.CustomerTest" />
+      <item itemvalue="Tomcat Server.Tomcat 7.0.106" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CustomerTest" />
+        <item itemvalue="JUnit.UserDAOTest.getEmployeeComments" />
+        <item itemvalue="JUnit.UserDAOTest" />
+        <item itemvalue="JUnit.DBUtilTest.getConnection" />
+        <item itemvalue="JUnit.UserDAOTest.getUserByFullName" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+      <created>1359379246138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1359379246138</updated>
+      <workItem from="1359379250712" duration="1302000" />
+      <workItem from="1602158142455" duration="16760000" />
+      <workItem from="1602243977928" duration="15372000" />
+      <workItem from="1603788643886" duration="36724000" />
+      <workItem from="1603871551579" duration="1149000" />
+      <workItem from="1603872946190" duration="23000" />
+      <workItem from="1603873102164" duration="28339000" />
+      <workItem from="1603916664459" duration="2070000" />
+      <workItem from="1604006572416" duration="76000" />
+      <workItem from="1604498892759" duration="764000" />
+      <workItem from="1604951424816" duration="2254000" />
+      <workItem from="1605444513500" duration="2044000" />
+      <workItem from="1605532578938" duration="1990000" />
+      <workItem from="1605551051920" duration="2622000" />
+      <workItem from="1605636632853" duration="3083000" />
+      <workItem from="1605645681748" duration="1360000" />
+      <workItem from="1606062401924" duration="610000" />
+      <workItem from="1606220241874" duration="18015000" />
+      <workItem from="1606256762732" duration="174000" />
+      <workItem from="1606292369777" duration="30867000" />
+      <workItem from="1606381932928" duration="34424000" />
+      <workItem from="1606466788774" duration="1449000" />
+      <workItem from="1606468289886" duration="7175000" />
+      <workItem from="1606493736211" duration="2215000" />
+      <workItem from="1606496819460" duration="626000" />
+      <workItem from="1606516033254" duration="141000" />
+      <workItem from="1606656554519" duration="16000" />
+      <workItem from="1606656631174" duration="1779000" />
+      <workItem from="1606658434699" duration="21115000" />
+      <workItem from="1606734644417" duration="22000000" />
+      <workItem from="1606775915201" duration="1947000" />
+      <workItem from="1606813781023" duration="10601000" />
+      <workItem from="1606831310010" duration="2117000" />
+      <workItem from="1606834307466" duration="2811000" />
+      <workItem from="1606839552295" duration="324000" />
+      <workItem from="1606839884074" duration="5709000" />
+      <workItem from="1606853514943" duration="467000" />
+      <workItem from="1606897107061" duration="2664000" />
+      <workItem from="1606940912001" duration="685000" />
+      <workItem from="1607000849180" duration="871000" />
+      <workItem from="1607122908004" duration="4000" />
+      <workItem from="1607177688636" duration="24000" />
+      <workItem from="1607178168396" duration="64000" />
+      <workItem from="1607195084512" duration="2000" />
+      <workItem from="1607261346673" duration="1247000" />
+      <workItem from="1607276726572" duration="8693000" />
+      <workItem from="1607332315365" duration="23931000" />
+      <workItem from="1607419157269" duration="44789000" />
+      <workItem from="1607475141002" duration="104000" />
+      <workItem from="1607475549775" duration="94000" />
+      <workItem from="1607497152313" duration="2744000" />
+      <workItem from="1607501798113" duration="1491000" />
+      <workItem from="1607503446546" duration="3020000" />
+      <workItem from="1607592052824" duration="1232000" />
+      <workItem from="1607693939113" duration="1276000" />
+      <workItem from="1607765711472" duration="7959000" />
+      <workItem from="1607896689331" duration="618000" />
+      <workItem from="1607957214312" duration="147000" />
+      <workItem from="1608279735291" duration="1836000" />
+      <workItem from="1608469424403" duration="1353000" />
+      <workItem from="1611304240362" duration="3055000" />
+      <workItem from="1611392504912" duration="5401000" />
+      <workItem from="1611485308729" duration="4540000" />
+      <workItem from="1611558497170" duration="2618000" />
+      <workItem from="1611768321726" duration="1198000" />
+      <workItem from="1612723371204" duration="1140000" />
+      <workItem from="1613842794447" duration="789000" />
+      <workItem from="1613852675229" duration="704000" />
+      <workItem from="1614345762367" duration="722000" />
+      <workItem from="1614760557869" duration="1204000" />
+      <workItem from="1615365575262" duration="1205000" />
+      <workItem from="1615659880752" duration="613000" />
+      <workItem from="1615731206943" duration="8000" />
+      <workItem from="1615964149815" duration="1246000" />
+      <workItem from="1616336315063" duration="11000" />
+      <workItem from="1616573825967" duration="2294000" />
+      <workItem from="1618384288512" duration="8738000" />
+      <workItem from="1618464498585" duration="5388000" />
+      <workItem from="1618498527525" duration="2097000" />
+      <workItem from="1618559735205" duration="1051000" />
+      <workItem from="1618561679365" duration="1238000" />
+      <workItem from="1618818672133" duration="329000" />
+      <workItem from="1619158865531" duration="604000" />
+      <workItem from="1620111924698" duration="4481000" />
+      <workItem from="1633772380606" duration="1421000" />
+      <workItem from="1634649678716" duration="623000" />
+      <workItem from="1637744789029" duration="3188000" />
+      <workItem from="1637750166020" duration="46000" />
+      <workItem from="1637751197605" duration="1166000" />
+      <workItem from="1637770953398" duration="41000" />
+      <workItem from="1637772683320" duration="202000" />
+      <workItem from="1637773433222" duration="1507000" />
+      <workItem from="1637828127476" duration="150000" />
+      <workItem from="1637831260112" duration="5000" />
+      <workItem from="1637843659629" duration="11000" />
+      <workItem from="1637850102370" duration="3973000" />
+      <workItem from="1637854113714" duration="3380000" />
+      <workItem from="1637857528796" duration="6337000" />
+      <workItem from="1637875889496" duration="12786000" />
+      <workItem from="1637889589780" duration="2099000" />
+      <workItem from="1638121258622" duration="602000" />
+      <workItem from="1638123027662" duration="23000" />
+      <workItem from="1638136557548" duration="591000" />
+      <workItem from="1639409994424" duration="686000" />
+      <workItem from="1639410734854" duration="345000" />
+      <workItem from="1639568633865" duration="319000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="UserDAOTest_getEmployeeComments - 2021.04.14 at 11h 31m 00s.xml">
+      <configuration name="UserDAOTest.getEmployeeComments" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserDAOTest_getEmployeeComments - 2021.04.14 at 11h 31m 05s.xml">
+      <configuration name="UserDAOTest.getEmployeeComments" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserDAOTest_getEmployeeComments - 2021.04.14 at 11h 31m 23s.xml">
+      <configuration name="UserDAOTest.getEmployeeComments" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserDAOTest_getEmployeeComments - 2021.04.14 at 11h 33m 26s.xml">
+      <configuration name="UserDAOTest.getEmployeeComments" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserDAOTest_getEmployeeComments - 2021.04.14 at 11h 37m 02s.xml">
+      <configuration name="UserDAOTest.getEmployeeComments" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserDAOTest_getEmployeeComments - 2021.04.14 at 11h 38m 20s.xml">
+      <configuration name="UserDAOTest.getEmployeeComments" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserDAOTest_getEmployeeComments - 2021.04.14 at 11h 40m 27s.xml">
+      <configuration name="UserDAOTest.getEmployeeComments" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserDAOTest_getEmployeeComments - 2021.04.14 at 11h 45m 06s.xml">
+      <configuration name="UserDAOTest.getEmployeeComments" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomerTest - 2021.04.14 at 11h 56m 07s.xml">
+      <configuration name="CustomerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomerTest - 2021.04.14 at 11h 56m 37s.xml">
+      <configuration name="CustomerTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="475537000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="0" width="1590" height="1120" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.82686085" visible="true" weight="0.23594771" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="Web" order="7" sideWeight="0.17313915" side_tool="true" weight="0.2704918" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
+      <window_info anchor="bottom" x="24" y="374" width="1133" height="370" id="Run" order="2" visible="true" weight="0.28947368" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39473686" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32894737" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32894737" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Problems" order="9" />
+      <window_info anchor="bottom" id="Changes" order="10" />
+      <window_info anchor="bottom" id="Profiler" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" weight="0.32826748" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32489878" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="16" weight="0.32793522" />
+      <window_info anchor="bottom" id="Spring" order="17" weight="0.32894737" />
+      <window_info anchor="bottom" id="Java Enterprise" order="18" weight="0.32894737" />
+      <window_info anchor="bottom" id="Inspection Results" order="19" weight="0.3299595" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="JetGradle" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3281787" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Maven" order="7" weight="0.3298969" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.82686085" visible="true" weight="0.202743" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="Web" order="7" sideWeight="0.17313915" side_tool="true" weight="0.2704918" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
+      <window_info anchor="bottom" x="24" y="374" width="1133" height="370" id="Run" order="2" visible="true" weight="0.29048583" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39473686" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3296146" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.3296146" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Problems" order="9" />
+      <window_info anchor="bottom" id="Changes" order="10" />
+      <window_info anchor="bottom" id="Profiler" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" weight="0.3296146" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32591093" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="16" weight="0.3286004" />
+      <window_info anchor="bottom" id="Spring" order="17" weight="0.3296146" />
+      <window_info anchor="bottom" id="Java Enterprise" order="18" weight="0.3296146" />
+      <window_info anchor="bottom" id="Inspection Results" order="19" weight="0.3299595" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="JetGradle" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.328594" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Maven" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="setValue">
+      <expression>
+        <expression-string>&quot;select a.app_date, a.app_hour, u.full_name, u.salon_address  from appointment ajoin user u where a.cust_id = ? and a.emp_id = u.user_id&quot;</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/sql/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/javafx-src.zip!/javafx/scene/control/ComboBoxBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="150" column="31" selection-start-line="150" selection-start-column="31" selection-end-line="150" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/ResourceBundle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="286" column="22" selection-start-line="286" selection-start-column="22" selection-end-line="286" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GSONSerializable/EmployeeGSONSerializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GSONSerializable/UserGSONSerializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rs/servlet/TestAnnotatedServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rs/servlet/XMLServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/customerProfile.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-321">
+          <caret line="16" column="58" lean-forward="true" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rs/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="31" column="3" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rs/model/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rs/model/Comment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GSONSerializable/AllEmployeesGSONSerializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GSONSerializable/AllUsersGSONSerializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GSONSerializable/CommentGSONSerializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/rs/dao/UserDAOTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/rs/model/CustomerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rs/WebController/TestWebCntroller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#492#493#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/rs/controller/MainControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/appointments.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/comment.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="204" selection-start-line="7" selection-start-column="157" selection-end-line="7" selection-end-column="204" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/main.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="155" selection-start-line="14" selection-start-column="155" selection-end-line="14" selection-end-column="155" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GSONSerializable/AllCommentsGSONSerializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/img/background.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/css/login.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rs/WebController/UserWebController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="26" column="46" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/javafx-src.zip!/javafx/fxml/FXMLLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="2408" selection-start-line="2408" selection-end-line="2408" />
+          <folding>
+            <element signature="e#81963#81964#0" expanded="true" />
+            <element signature="e#81995#81996#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rs/controller/AppointmentsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rs/controller/CommentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rs/controller/CustomerProfileController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="106" column="77" selection-start-line="106" selection-start-column="72" selection-end-line="106" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rs/controller/MainEmployeeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="146" column="77" selection-start-line="146" selection-start-column="72" selection-end-line="146" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rs/model/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rs/controller/SingUpController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1720">
+          <caret line="99" column="23" selection-start-line="99" selection-start-column="23" selection-end-line="99" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rs/dao/IUserDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/view/main.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rs/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="55" column="8" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RegistrationSystem.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/rs/util/DBUtilTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rs/dao/UserDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10360">
+          <caret line="528" column="19" selection-start-line="528" selection-start-column="19" selection-end-line="528" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rs/controller/MainController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4760">
+          <caret line="264" column="42" selection-start-line="264" selection-start-column="42" selection-end-line="264" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#addCommentsToTree#0;class#MainController#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rs/util/DBUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rs/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mainEmployee.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="32" column="34" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/LogIn.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rs/dao/AppointmentDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2140">
+          <caret line="107" column="35" selection-start-line="107" selection-start-column="35" selection-end-line="107" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor>
+            <show-content>
+              <type id="artifact" />
+              <type id="jpa-descriptors" />
+              <type id="library" />
+              <type id="javaee-facet-resources" />
+            </show-content>
+          </artifact-editor>
+          <last-edited>RegistrationSystem</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39093485" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39093485" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>mysql:mysql-connector-java:8.0.19</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39093485" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39093485" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>RegistrationSystem</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39093485" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>com.google.code.gson:gson:2.8.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39093485" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
